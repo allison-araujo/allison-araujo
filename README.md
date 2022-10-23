@@ -33,30 +33,29 @@
 
  
 ##
-<h3>💻 &nbsp;front-end 💻</h3>
+<h3>💻 &nbsp;Front-end 💻</h3>
 <div  style="display: inline_block"><br>
-    <img align="center" alt="Alli-React" height="65" width="65" style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
-  <=>
-  <img align="center" alt="Alli-Js" height="65" width="65" style="border-radius:50%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <=>
-  <img align="center" alt="Alli-Ts" height="65" width="65"  style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <=>
-
-  <img align="center" alt="Alli-HTML" height="65" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <=>
-  <img align="center" alt="Alli-CSS" height="65 width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <=>
-   <img align="center" alt="Alli-BOOTS" height="65 width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
- <=>
-   <img align="center" alt="Alli-BOOTS" height="65 width="65" src="http://semantic-ui.com/images/logo.png" />
-  <=>
-    <img align="center" alt="Alli-BOOTS" height="65 width="65"  src="https://mobx.js.org/assets/mobx.png" />
-    <=>
-    <img align="center" alt='Allis-jest' width="65 height="65" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" />
-<=>
- <img align="center" alt="Alli-Js" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/162860046-b21b307f-bb4f-404e-a7cc-afb8c9334d7c.png" />
+    <img align="center" alt="Alli-React" height="35" width="35" style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
+  
+  <img align="center" alt="Alli-Js" height="35" width="35" style="border-radius:50%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  
+  <img align="center" alt="Alli-Ts" height="35" width="35"  style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  
+  <img align="center" alt="Alli-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
  
- <img align="center" alt="Alli-Js" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/181936120-20be5df2-f7d7-4362-9df5-47dd814fdc86.png" />
+  <img align="center" alt="Alli-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ 
+  <img align="center" alt="Alli-BOOTS" height="35" width="35"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+ 
+  <img align="center" alt="Alli-BOOTS" height="35" width="35" src="http://semantic-ui.com/images/logo.png" />
+  
+  <img align="center" alt="Alli-BOOTS" height="35" width="35"  src="https://mobx.js.org/assets/mobx.png" />
+    
+  <img align="center" alt='Allis-jest' height="35" width="35" src="https://raw.githubusercontent.com/testing-library/dom-testing-library/master/other/octopus.png" />
+
+<img align="center" alt="Alli-Js" height="35" width="35" src="https://user-images.githubusercontent.com/39178001/162860046-b21b307f-bb4f-404e-a7cc-afb8c9334d7c.png" />
+ 
+ <img align="center" alt="Alli-Js" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/181936120-20be5df2-f7d7-4362-9df5-47dd814fdc86.png" />
  
  
 </div>
@@ -66,10 +65,10 @@
 ## 
 <h3>💻 &nbsp;back-end 💻</h3>
 <div  style="display: inline_block"><br>
-    <img align="center" alt="Alli-Nodejs" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" /> 
-  <=>  
-  <img align="center" alt="Alli-Nodejs" height="65" width="65" style="border-radius:50%" src="https://user-images.githubusercontent.com/39178001/174504964-16722270-84b0-4c0c-a702-5536815c6c90.svg" />
-     <=>
-  <img align="center" alt="Alli-Mongo" height="65" width="65" src="https://user-images.githubusercontent.com/39178001/174505217-c2728ce3-613b-4df9-9cdb-f7bf9d74e856.svg" />
+    <img align="center" alt="Alli-Nodejs" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" /> 
+  
+  <img align="center" alt="Alli-Nodejs" height="35" width="25" style="border-radius:50%" src="https://user-images.githubusercontent.com/39178001/174504964-16722270-84b0-4c0c-a702-5536815c6c90.svg" />
+    
+  <img align="center" alt="Alli-Mongo" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/174505217-c2728ce3-613b-4df9-9cdb-f7bf9d74e856.svg" />
 
 
