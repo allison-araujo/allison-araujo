@@ -22,18 +22,18 @@
 
   <a href="mailto:allisonvinicius63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/allison-v-araújo/"  target="_blank">
+  <a href="https://www.linkedin.com/in/allison096/"  target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/AllisonVinicius/count.svg" />  
+  <img src="https://profile-counter.glitch.me/allison-araujo/count.svg" />  
 </p>
 
  
 ##
-<h3>💻 &nbsp;Front-end 💻</h3>
+<h3>💻 &nbsp;front-end 💻</h3>
 <div  style="display: inline_block"><br>
     <img align="center" alt="Alli-React" height="35" width="35" style="border-radius:10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /> 
   
@@ -64,11 +64,20 @@
 
 ## 
 <h3>💻 &nbsp;back-end 💻</h3>
-<div  style="display: inline_block"><br>
-    <img align="center" alt="Alli-Nodejs" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" /> 
-  
-  <img align="center" alt="Alli-Nodejs" height="35" width="25" style="border-radius:50%" src="https://user-images.githubusercontent.com/39178001/174504964-16722270-84b0-4c0c-a702-5536815c6c90.svg" />
+<div>
+    <img align="center" alt="Alli-Nodejs" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" />  
+ 
+   <img align="center" alt="docker-icon" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/199520165-489bdd8c-d974-4916-8e54-5ce6f87dc635.svg" />
+ 
+</div>
+
+ ## 
+<h3>💻 &nbsp;bd 💻</h3>
+
+  <img align="center" alt="mysql" height="35" width="35" style="border-radius:50%" src="https://user-images.githubusercontent.com/39178001/174504964-16722270-84b0-4c0c-a702-5536815c6c90.svg" />
     
-  <img align="center" alt="Alli-Mongo" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/174505217-c2728ce3-613b-4df9-9cdb-f7bf9d74e856.svg" />
+
+ 
+ 
 
 
