@@ -65,10 +65,11 @@
 ## 
 <h3>💻 &nbsp;back-end 💻</h3>
 <div>
-    <img align="center" alt="Alli-Nodejs" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/174504912-2cf86d46-93bc-4f1c-92d6-e143816276f6.svg" />  
+    <img align="center" alt="Alli-java" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/202880333-af34ddd4-8226-4e1c-9ffb-70b009ca44af.jpg" />   
+  
+   <img align="center" alt="docker-icon" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/199520165-489bdd8c-d974-4916-8e54-5ce6f87dc635.svg" />  
  
-   <img align="center" alt="docker-icon" height="35" width="35"  src="https://user-images.githubusercontent.com/39178001/199520165-489bdd8c-d974-4916-8e54-5ce6f87dc635.svg" />
- 
+  <img align="center" alt="spring" height="35" width="35" src="https://user-images.githubusercontent.com/39178001/202880402-758623f3-17f4-4818-9623-49ed124fb501.png" />   
 </div>
 
  ## 
