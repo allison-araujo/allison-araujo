@@ -2,8 +2,8 @@
 
  ##   <img align="center" alt="Alli-CSS" height="60" width="70" src="https://user-images.githubusercontent.com/39178001/156087891-d1cdc322-5719-4279-a260-bc37bf482760.svg" />  <Prazer, sou o Allison   💻 />
 
-- Graduado em Sistemas de Informação - UFMS (2021) 🧑‍💻.
--  Front End React/Ts 💻. 
+- Graduado em Sistemas de Informação - UFMS 🧑‍💻.
+-  Front End React/Ts e Backend Java , Spring-Boot 💻. 
 -  Dedicado e Esforçado e sempre buscando aprimorar e adquirir novos conhecimentos!!
 
 
@@ -25,12 +25,6 @@
   <a href="https://www.linkedin.com/in/allison096/"  target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/allison-araujo/count.svg" />  
-</p>
-
  
 ##
 <h3>💻 &nbsp;front-end 💻</h3>
