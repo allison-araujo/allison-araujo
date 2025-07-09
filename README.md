@@ -4,7 +4,7 @@
 
 - Graduado em Sistemas de Informação - UFMS 🧑‍💻.
 -  Desenvolvedor Front End React/Ts
--  conhecimento em  Backend Java , Spring (boot, jpa, cloud, security) 💻. 
+
 
 ## Contato
 <div align="start"> 
